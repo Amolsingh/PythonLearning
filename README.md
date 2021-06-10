@@ -124,3 +124,22 @@ We can change the value of the mutable objects, without the object being destroy
 - Helps in protecting the integrity of your data as we cannot change the data once assigned.
 - Using a List method we can convert a Tuple to a list
 
+# Functions
+- Not all functions return a value. Some functions just do some action. Eg: print() and sort(). These functions don't return anything useful.
+- A function thats bound to an instance of a class is called a method. Eg: String method str.casefold()
+- You can use methods in the same way as you use functions but specify the object that they will act on, befor the dot.
+- Function definition starts with a keyword **def**
+     - Next name of the function
+     - parameters for the function
+- Use step into to debug inside the function
+- The scope of variable used inside a function is limited inside function only. We can check this in the debug pane as the function variable disappear after function has performed its operation
+- Arguments are the values that will be used by formal parameters, when we call a function.
+- Python argument are passed by assignment.
+- The behaviour is similar to pass by reference, when passing a mutable object. For immutable objects, the behaviour is closer to pass by value.
+- When you define a function to have positional arguments, the argument are assigned to the parameters in their corresponding positions.
+- If you want a function to return a value, use the return keyword to specify the value that should be returned
+- Not all functions return something useful. Some functions perform an action, rather than producing a value.
+- If you dont explicitly return a value, python will automatically return None
+- It is valid to explicitly return None from your function. You might do that to indicate something wasn't found for example: The dictionary get method does this
+- Function that perform an action, rather than returning a value, used to be called procedures. But that distinction is no longer made, in modern programming languages.
+
