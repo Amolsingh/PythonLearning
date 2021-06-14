@@ -54,3 +54,13 @@ print(song)
 
 mayhem = albums[3][3][2][1]
 print(mayhem)
+
+theWayIChose = albums[1][3][5][1]
+var_1981 = albums[2][2]
+var_4 = albums[1][3][3][0]
+var_tuple_keepingRendezvous = albums[2][3][1]
+
+print(theWayIChose)
+print(var_1981)
+print(var_4)
+print(var_tuple_keepingRendezvous)
