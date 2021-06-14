@@ -142,4 +142,51 @@ We can change the value of the mutable objects, without the object being destroy
 - If you dont explicitly return a value, python will automatically return None
 - It is valid to explicitly return None from your function. You might do that to indicate something wasn't found for example: The dictionary get method does this
 - Function that perform an action, rather than returning a value, used to be called procedures. But that distinction is no longer made, in modern programming languages.
+- We can raise error and handle scenarios using errors like ValueError, TypeError etc
+- We can provide the default of the parameter in the function. Eg: **def calculate (x, y=3.14)**
+- Documentation makes function easy to use and make it more intuitive to use
+- Types of Parameters:
+   - Positional or Keyword
+   - Positional only
+   - keyword only
+   - var-positional
+   - var-keyword
+- Notice that the function docstrings are inside the functio definition
+- The convention in C++ and Java is to put the docstrings before the function declaration
+- In python, the docstrings go inside the function. There is a good reason for that. They become an attribute of the function.
+- Remember that everything in Python is an object. That means functions can have attributes
+- Each .py file that you create becomes a new Python module.
+- Modules can be imported into other modules or executed 
+- Python docstrings appear inside the function. They become an attribute of the function
+      help(get_integer)
+         - help(<name_ofmethod>)
+      print(input.__doc__)
+- Check your docstring by using ctrl + Q
+- Any positional-or-keyword arguments that we defined, MUST come first in the parameter list
+- If we have var-positional parameter thats a parameter that starts with * then it must come after any positional-or-keyword argument
+- Any parameters defined after a var positional parameters must be keyword-only arguments (which includes var-keywords arguments)
+
+# Function Annotations and Type hints
+- def is_palindrome (String: tr) -> bool:
+   return string[::-1].casefold() == string.casefold()
+   
+- Even though Python allows us to provide function annotations and gives us type hint we can still pass any type as Python is statically typed. The IDE only gives us the warning
+- Docstrings can contain the error that a function may raise
+      : raises ValueError:
+
+# Python Environment
+- A python virtual environment is an isolated installation of Python, separate from you main installation.
+- If you had to update the pip & setup tools packages, you'll have seen that packages come in different versions. Python pacages get updated, just like anything else
+- If you have a program that works with a particular version of package it might break when you update the package
+- If you install new versions into your Python installation, you could break a program that you rely on
+- A python virtual environment contains a copy of your main Python installation
+- Bret Cannon is in the pannel of Python comittee
+- The isolated environments we are using are virtualenvs. They are built into Python and the Jetbrains IDEs have good support for them
+- Testing is the process of finding out if there are any bugs in your code
+- Debugging is the process of working out what the bugs are, and fixing them 
+- Testing and debugging go together
+- You have to test the code first to find out if they have any bugs
+
+
+
 
