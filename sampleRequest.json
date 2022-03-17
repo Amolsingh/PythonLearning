@@ -1,0 +1,190 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "ABCDEFGHIJKLMNOPQR",
+    "title": "ABCDEFGHIJKLMNOPQ",
+    "description": "ABCDEFGHIJKL",
+    "termsOfService": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+    "contact": {
+      "name": "Amol Singh",
+      "url": "ABCDEFGHIJKLMNOPQRST",
+      "email": "amol.singh@sc.com",
+      "x-": 153
+    },
+    "license": {
+      "name": "ABCDEFGHIJKLMNO",
+      "url": "ABCDEFGHIJKLMN",
+      "x-": {}
+    },
+    "x-": null
+  },
+  "paths": {
+    "x-": true,
+    "/": {
+      "$ref": "ABCDEFGHIJKLMNOPQRST",
+      "get": {
+        "responses": {
+          "x-": 808
+        },
+        "tags": [],
+        "summary": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+        "description": "ABCDEFGHIJKLMNOPQRSTUVWXYZA",
+        "externalDocs": {
+          "url": "/api",
+          "description": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+          "x-": {}
+        },
+        "operationId": "ABCDEFGHIJKLMNOPQRSTU",
+        "produces": ["ABCDEFGHIJKLMNO"],
+        "consumes": [],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": false,
+        "security": [],
+        "x-": 80.5
+      },
+      "put": {
+        "responses": {
+          "x-": 311
+        },
+        "tags": [],
+        "summary": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "description": "ABCDE",
+        "externalDocs": {
+          "url": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+          "description": "ABCDEFGHIJKLM",
+          "x-": []
+        },
+        "operationId": "ABCDEFG",
+        "produces": [],
+        "consumes": ["ABCDEFGHIJ"],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": false,
+        "security": [],
+        "x-": null
+      },
+      "post": {
+        "responses": {
+          "x-": []
+        },
+        "tags": [],
+        "summary": "ABCDEFGHIJKLMNOPQ",
+        "description": "ABCDEF",
+        "externalDocs": {
+          "url": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+          "description": "ABCDEFGHIJ",
+          "x-": {}
+        },
+        "operationId": "ABCDEFGHIJKLMNOPQR",
+        "produces": ["ABCDEFGHIJKLMNOPQRSTUVWXYZA"],
+        "consumes": [],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": true,
+        "security": [],
+        "x-": null
+      },
+      "delete": {
+        "responses": {
+          "x-": {}
+        },
+        "tags": [],
+        "summary": "ABCDEFG",
+        "description": "ABCDEFGHIJKLMNOPQRST",
+        "externalDocs": {
+          "url": "ABCDEFGHIJKLM",
+          "description": "ABCDEFGHIJKL",
+          "x-": 654
+        },
+        "operationId": "ABCDEF",
+        "produces": [],
+        "consumes": [],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": false,
+        "security": [],
+        "x-": null
+      },
+      "options": {
+        "responses": {
+          "x-": null
+        },
+        "tags": [],
+        "summary": "ABCDEFGH",
+        "description": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+        "externalDocs": {
+          "url": "ABCDEFGHIJ",
+          "description": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "x-": "ABCDEFGHIJKLMNOPQRSTUV"
+        },
+        "operationId": "ABCDEFGHIJKLMN",
+        "produces": ["ABCDEFGHIJKLMNOPQRSTUVWXYZA"],
+        "consumes": [],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": false,
+        "security": [],
+        "x-": {}
+      },
+      "head": {
+        "responses": {
+          "x-": {}
+        },
+        "tags": [],
+        "summary": "ABCDEFGHI",
+        "description": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+        "externalDocs": {
+          "url": "/api/head"
+        },
+        "operationId": "ABCDEFGHIJKLMNOPQRSTUVWX",
+        "produces": [],
+        "consumes": ["ABCDEFGHIJKL"],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": false,
+        "security": []
+      },
+      "patch": {
+        "responses": {
+          "x-": 254
+        },
+        "tags": [],
+        "summary": "ABCDEFGHIJKLMNO",
+        "description": "ABCDEFGHIJKLMNO",
+        "externalDocs": {
+          "url": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+          "description": "ABCDEFGHIJKLMNO",
+          "x-": null
+        },
+        "operationId": "ABCDEFGH",
+        "produces": [],
+        "consumes": ["ABCDEFGHIJKLMNO"],
+        "parameters": [],
+        "schemes": [],
+        "deprecated": false,
+        "security": [],
+        "x-": null
+      },
+      "parameters": [],
+      "x-": 232.5
+    }
+  },
+  "host": "C:3",
+  "basePath": "/",
+  "schemes": [],
+  "consumes": [],
+  "produces": [],
+  "definitions": {},
+  "parameters": {},
+  "responses": {},
+  "security": [],
+  "securityDefinitions": {},
+  "tags": [],
+  "externalDocs": {
+    "url": "ABCDEFGHIJKLMNOP",
+    "description": "ABCDEFGHIJKL",
+    "x-": true
+  },
+  "x-": 954
+}
